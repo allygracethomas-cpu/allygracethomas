@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ally Thomas"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
+      - icon: linkedin
+        href: https://linkedin.com/in/ally-g-thomas
+      - icon: inboxes
+        href: mailto:allygracethomas@gmail.com
+format:
+  html:
+    theme:
+      - lux
+      - brand
+    css: styles.css
+
+editor: visual
+
