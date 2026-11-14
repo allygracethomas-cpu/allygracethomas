@@ -1,10 +1,11 @@
 ---
 title: "Data Visualization on Weather Over the Past 25 Years (2026)"
-author: "Me, Samson Windwalker, Lanndon Stubblefield, Naomi Gonzalez"
 date: "2026-11-13"
 categories: [PowerPoint, presentation, data visualization, weather]
 image: "Slide1.JPG"
 ---
+
+**Authors:** [Ally Thomas](https://allygracethomas-cpu.github.io/), [Samson Windwalker](https://samsonbw.github.io/), [Lanndon Stubblefield](https://lanndonstubblefield.github.io/), [Naomi Gonzalez](https://naomi-gonzalez1.github.io/)
 
 Weather affects everyday choices, from what we wear to how we prepare for severe storms, and weather data lets us test common weather assumptions. For this project, our team analyzed weather data and built one visualization for each of four questions. A bar chart compares average snowfall and minimum temperature in Arkansas to ask whether colder summers imply more snow. A histogram of monthly precipitation in Queens, NY shows what counts as a normal amount of rain. A scatter plot of yearly tornado events in Tornado Alley and Dixie Alley asks whether Tornado Alley is expanding east, shifting east, or not changing, and whether the two regions are related. Finally, a time series of Arkansas maximum temperatures from August to December in 2000, 2010, and 2020 shows whether “sweater weather” is arriving later.
 
